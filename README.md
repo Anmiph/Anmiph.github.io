@@ -1,4 +1,5 @@
-# Welcome to anmiph.github.io 
-You can contact me at @therealanmiph on GitHub  
+# Welcome to [anmiph.github.io](https://anmiph.github.io)
+ 
 
-https://anmiph.github.io/about/contact-us.html
+[Contact-Us](https://anmiph.github.io/about/contact-us.html)
+[About-Me]
